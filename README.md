@@ -10,7 +10,6 @@ Il retourne également l'espérance et la vérification que la somme des probabi
 
 `ratio.xlsx` : ce fichier Excel contient les données brutes récupérées à partir de `drop.py`. Donc pour chaque caisse il contient l'espérance, le prix de la caisse, la différence entre le prix et l'espérance, le ratio de 'perte' et donc par déduction le TRJ fixé par le site pour la caisse en question
 
-Aperçu du excel : 
 ![alt text][excel]
 
 ## Résultats de l'analyse
