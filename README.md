@@ -23,7 +23,7 @@ L'histogramme des probabilités de drop pour chaque caisse a révélé que la r�
 En conclusion, cette analyse montre que peu importe le prix payé pour une caisse, l'espérance de gain est toujours proportionnelle au prix et est calculée de manière à ce que le site de jeux d'argent en ligne ait un ratio de gain d'environ 14%. Il n'y a donc pas de caisse plus ou moins avantageuse que d'autres.
 
 ## Références
-Les probabilités de drop ont été récupérées à partir du site de jeux d'argent en ligne (insérer le nom du site ici).
+Les probabilités de drop ont été récupérées à partir du site de jeux d'argent en ligne (https://hellcase.com/).
 
 
 [excel]: https://github.com/Axellrn13/projet-esperance/blob/main/excel.png "Aperçu de l'excel"
