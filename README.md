@@ -17,6 +17,8 @@ L'analyse a révélé que le ratio de perte était le même pour toutes les cais
 
 L'histogramme des probabilités de drop pour chaque caisse a révélé que la répartition des probabilités suit une loi exponentielle avec un lambda qui semble être supérieur ou égal à 1.5.
 
+![alt text][histKRL]
+
 ## Conclusion
 En conclusion, cette analyse montre que peu importe le prix payé pour une caisse, l'espérance de gain est toujours proportionnelle au prix et est calculée de manière à ce que le site de jeux d'argent en ligne ait un ratio de gain d'environ 14%. Il n'y a donc pas de caisse plus ou moins avantageuse que d'autres.
 
@@ -25,3 +27,4 @@ Les probabilités de drop ont été récupérées à partir du site de jeux d'ar
 
 
 [excel]: https://github.com/Axellrn13/projet-esperance/blob/main/excel.png "Aperçu de l'excel"
+[histKRL]: https://github.com/Axellrn13/projet-esperance/blob/main/histKRL.png "Histogramme de la caisse KRL"
