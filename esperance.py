@@ -57,7 +57,7 @@ def plot_histogram(drop, step_size):
         plt.bar(bins[i], counts[i], width=step_size, color=colors[i % len(colors)])
     plt.show()
 
-plot_histogram(drop, 17)
+#plot_histogram(drop, 17)
 
 
 
