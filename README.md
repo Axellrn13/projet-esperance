@@ -4,7 +4,7 @@ Ce projet consiste en une analyse des probabilités de drop pour les skins dans 
 ## Fonctionnement du projet
 Le projet est divisé en deux fichiers principaux :
 
-`drop.py` : ce fichier contient le code Python utilisé pour récupérer les probabilités de drop pour chaque skin dans chaque caisse. Il utilise des requêtes HTTP pour récupérer les données à partir du site de jeux d'argent en ligne, puis calcule l'espérance de gain pour chaque caisse.
+`drop.py` : ce fichier contient le code Python utilisé pour récupérer les probabilités de drop pour chaque skin dans chaque caisse. Il utilise les données mises à disposition par le site de jeux d'argent en ligne, puis calcule l'espérance de gain pour chaque caisse.
 Ce programme retourne la liste `drop` qui est de la forme : [[probabilités(en %), montant_du_gain], ... ].
 Il retourne également l'espérance et la vérification que la somme des probabilités soit bien à 100%.
 
