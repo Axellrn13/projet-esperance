@@ -1,5 +1,11 @@
 #  Analyse des probabilités de drop sur un site de jeux d'argent en ligne
+CS:GO est un jeu de tir à la première personne très populaire dans lequel les joueurs s'affrontent en équipe. Le jeu propose également un système de skins, qui sont des designs pour les armes et les personnages. Les skins n'ont aucun impact sur le gameplay, mais ils peuvent être achetés, vendus et échangés entre les joueurs.
+
+Il existe plusieurs sites de jeux d'argent en ligne qui proposent des caisses de skins pour CS:GO, ainsi que pour d'autres jeux vidéo. Ces sites ne sont pas affiliés au jeu en lui-même, mais ils permettent aux joueurs d'acheter des caisses avec de l'argent réel et de gagner des skins rares.
+
 Ce projet consiste en une analyse des probabilités de drop pour les skins dans les caisses disponibles sur un site de jeux d'argent en ligne. L'objectif de l'analyse était de déterminer si certaines caisses étaient plus ou moins avantageuses que d'autres, et de calculer l'espérance de gain pour chaque caisse.
+
+Il est important de rappeler que le système de caisses et de skins peut conduire à une forme de dépendance chez certains joueurs, qui peuvent dépenser de grosses sommes d'argent pour obtenir des skins rares.
 
 ## Fonctionnement du projet
 Le projet est divisé en deux fichiers principaux :
