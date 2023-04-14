@@ -55,10 +55,9 @@ def plot_histogram(drop, step_size):
     colors = ['b', 'g', 'r', 'c', 'm', 'y', 'k']
     for i in range(len(counts)):
         plt.bar(bins[i], counts[i], width=step_size, color=colors[i % len(colors)])
-    plt.xticks(bins)
     plt.show()
 
-#plot_histogram(drop, 17)
+plot_histogram(drop, 17)
 
 
 
